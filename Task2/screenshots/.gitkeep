@@ -1,0 +1,5 @@
+# Placeholder for screenshots
+# Add your screenshots here after running the load test:
+# - hpa_scaling.png - showing HPA scaling up replicas
+# - dashboard_pods.png - Kubernetes dashboard showing multiple pods
+# - locust_stats.png - Locust statistics
